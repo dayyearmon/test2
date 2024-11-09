@@ -1,0 +1,11 @@
+{
+  "name": "Zoro",
+  "symbol": "ZORO",
+  "description": "Zoro fight club",
+  "image": "https://raw.githubusercontent.com/dayyearmon/test/refs/heads/main/zz.png"
+    "extensions": {
+    "website": "https://turbotoken.io",
+    "twitter": "https://twitter.com/TurboToadToken",
+    "telegram": "https://tm.me/TurboToadToken"
+  }
+}
